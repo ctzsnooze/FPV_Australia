@@ -1,8 +1,10 @@
 # FPV_Australia
 
-Drafting safe FPV guidelines for the Australian sport flying FPV Community
+This site is for recreational FPV drone pilots flying race or freestyle machines.
 
-Sport and racing FPV enthusiasts in Australia face a range of Government related regulations, many of which were written before light-weight FPV quadcopter technology existed.  Consequently, many of these regulations are inappropriate for what we do.
+The wiki contains links to the relevant legislation.
+
+FPV enthusiasts in Australia face a range of Government related regulations, many of which were written before light-weight FPV quadcopter technology existed.  Many of these regulations are inappropriate for what we do.
 
 Agencies like CASA and ACMA are required to provide regulations to ensure the safe physcial and radio environment for all users.  We benefit from their regulations; a space exists for us in their view of the world.  However, the explosion in modern technology poses significant regulatory challenges for any regulatory body, and many of their regulations appear excessively restrictive and bluntly designed.
 
@@ -12,7 +14,5 @@ Hopefully the diverse Australian FPV community can join in this process.  If our
 
 If we can't agree on suitable guidelines, the Government will do whatever it likes.  Having a set of well-defined guidelines with a proven safe track record may induce CASA and ACMA to co-operatively work together in future policy development.
 
-As of August 2015 there is no master thread, nothing.  If anyone could propose a starting point, please let me know.
-
-<ctzsnooze>
+<ctzsnooze> 2015
 
