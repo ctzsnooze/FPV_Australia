@@ -2,7 +2,7 @@
 
 This site is for recreational FPV drone pilots flying race or freestyle machines.
 
-The wiki contains links to the relevant legislation.
+The [https://github.com/ctzsnooze/FPV_Australia/wiki](wiki) contains links to the relevant legislation.
 
 FPV enthusiasts in Australia face a range of Government related regulations, many of which were written before light-weight FPV quadcopter technology existed.  Many of these regulations are inappropriate for what we do.
 
