@@ -2,13 +2,13 @@
 
 This is a site for recreational race or freestyle FPV drone pilots.  It is not for commercial drone pilots.
 
-# Introduction
+## Introduction
 
 Recreational drone pilots in Australia face a range of conditions on when where we can fly, with significant penalties should they be contravened.  They are intended to ensure the safety of other airspace users, and other people or property.
 
 Many of us feel that some of these restrictions, particularly those restricting FPV flying, are unreasonable, given our good safety record.
 
-# Current restrictions on FPV
+## Current restrictions on FPV
 
 The simple act of flying a drone FPV, other than at an CASA FPV-approved location (such as a club field), or indoors, is not permitted, regardless of the size of the drone, or how low you fly, or whether or not what you do was safe at the time.  Just flying FPV alone can attract a fine of 5 penalty units ($1,110).  If contested in court, the maximum penalty that can be imposed by the Judge is up to 50 units, or $11,100. 
 
@@ -16,11 +16,11 @@ Flying a 70g whoop FPV outdoors, at knee height, FPV, risks the full $1,110 fine
 
 On the other hand, it is perfectly legal to fly a drone of up to 2kg LOS, and up to 400 feet in the air.  We all know which is more potentially hazardous to someone who might wander onto the flying field.
 
-# Exemptions to the anti-FPV rules
+## Exemptions to the anti-FPV rules
 
 CASA can make exemptions from the anti-FPV rules.  Usually this applies a specific location, for a certain class of drone, and to a restricted group of pilots.  This is how Club fields ger permission for their members fly FPV at their fields.  This exemption is geograhpically restricted to the approved location, and nowhere else.  
 
-# What can we do?
+## What can we do?
 
 CASA may respond positively to an application for an FPV exemption that could apply to a certain type of drones or under certain specified conditions.  
 
