@@ -1,18 +1,41 @@
 # FPV_Australia
 
-This site is for recreational FPV drone pilots flying race or freestyle machines.
+This is a site for recreational race or freestyle FPV drone pilots.  It is not for commercial drone pilots.
 
-The [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki) contains links to the relevant legislation.
+# Introduction
 
-FPV enthusiasts in Australia face a range of Government related regulations, many of which were written before light-weight FPV quadcopter technology existed.  Many of these regulations are inappropriate for what we do.
+Recreational drone pilots in Australia face a range of conditions on when where we can fly, with significant penalties should they be contravened.  They are intended to ensure the safety of other airspace users, and other people or property.
 
-Agencies like CASA and ACMA are required to provide regulations to ensure the safe physcial and radio environment for all users.  We benefit from their regulations; a space exists for us in their view of the world.  However, the explosion in modern technology poses significant regulatory challenges for any regulatory body, and many of their regulations appear excessively restrictive and bluntly designed.
+Many of us feel that some of these restrictions, particularly those restricting FPV flying, are unreasonable, given our good safety record.
 
-This repository is intended to provide a means for  Australian sport FPV pilots to create a draft a set of guidelines that, if adhered to, more effectively balance the safety aspects against the technical requirements of our sport.
+# Current restrictions on FPV
 
-Hopefully the diverse Australian FPV community can join in this process.  If our guidelines are well respected and sensible, those who fly under them will fly safely, avoiding accidents and bad publicity.  
+The simple act of flying a drone FPV, other than at an CASA FPV-approved location (such as a club field), or indoors, is not permitted, regardless of the size of the drone, or how low you fly, or whether or not what you do was safe at the time.  Just flying FPV alone can attract a fine of 5 penalty units ($1,110).  If contested in court, the maximum penalty that can be imposed by the Judge is up to 50 units, or $11,100. 
 
-If we can't agree on suitable guidelines, the Government will do whatever it likes.  Having a set of well-defined guidelines with a proven safe track record may induce CASA and ACMA to co-operatively work together in future policy development.
+Flying a 70g whoop FPV outdoors, at knee height, FPV, risks the full $1,110 fine - even on your own private property, with a spotter.  
 
-<ctzsnooze> 2015
+On the other hand, it is perfectly legal to fly a drone of up to 2kg LOS, and up to 400 feet in the air.  We all know which is more potentially hazardous to someone who might wander onto the flying field.
+
+# Exemptions to the anti-FPV rules
+
+CASA can make exemptions from the anti-FPV rules.  Usually this applies a specific location, for a certain class of drone, and to a restricted group of pilots.  This is how Club fields ger permission for their members fly FPV at their fields.  This exemption is geograhpically restricted to the approved location, and nowhere else.  
+
+# What can we do?
+
+CASA may respond positively to an application for an FPV exemption that could apply to a certain type of drones or under certain specified conditions.  
+
+For instance, we could apply for an exemption to the FPV restriction for all fixed-camera, protected-prop, whoop type drones, under 100g, so long as the flight does not go above 100 feet AGL.  
+
+The process for such an application is described here.
+
+This repository provides links to the legislation and guidance on rules, penalties and exemptions in the [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki).
+
+## PS: Upcoming pilot licencing and drone registration : March 2022 ?
+
+Soon, all recreational drone pilots will need to be licenced to fly.  They will likely have to pass a simple knowledge test.  Flying any model aircraft over 250g, other than a glider, while unlicenced, may result in a 5 unit, $1,110 fine or up to $11,100 if contested.  The cost of the licence is not known.
+
+Around the same time, all drones over 250g will need to registered on-line, and have the registration number applied to the drone.  Failure to register a drone carries the same 5 unit, $1,110 fine or up to $11,100 if contested.  Failure to provide registration documentation for each drone when requested carries a separate penalty.  The cost to register each drone is not currently known.
+
+
+
 
