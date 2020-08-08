@@ -62,9 +62,37 @@ CASA may consider an exemption for a limited period of time.  It would be subjec
 
 ## An application to permit FPV flying of whoops would be the simplest first step.
 
-For instance, we could apply for an exemption to the FPV restriction for all fixed-camera, protected-prop, whoop type drones, under 100g, so long as the flight does not go above 100 feet AGL.  
+For instance, we could apply for an exemption to the FPV restriction for whoops, being fixed-camera, protected-prop, whoop type drones, under 100g, flown under 100 feet AGL.  
 
-The process for such an application is described here.
+For example, we note, in the risk analysis, that:
+- with such very low mass, and with enclosed props, and the relatively low maximum speed, the maximum impact energy is well below that of a firmly struck cricket ball, soccer ball, frisbee or other common recreational toy.  Hence the risk of injury to person or property is so low as to be irrelevant, in a practical sense.
+- low mass and the very low maximum altitude restriction greatly reduces the risk to other airspace users; risk of damge from impact is far less than that of a 1kg bat or 250g bird, for instance
+- The risk of error flying FPV is less than LOS anyway due to lack of spatial cues when flying LOS with such a small drone
+- by not permitting autonomous flight, flyaways are unlikely
+- by having FPV specific checks and procedures, the safety of FPV greatly enhanced over not having defined procedures
+- The noise of the drone is far less than of larger drones.
+- The risk of fire from a tiny drone is miniscule since the impact energy is insufficient to breach the lipo and the heat to surface area ratio of these tiny lipos is very low.
+
+The application could include videos of impacts of whoops vs various objects, compared to cricket balls and the like, and demonstrate sufficient visibility at night.
+
+We may end up with this set of restrictions, perhaps:
+
+The drone itself:
+- AUW < 100g
+- FPV camera physcially fixed (no gimbal), must point forward, and must not point downward
+- prop tips must be enclosed so they cannot cause skin laceration on impact
+- autonomous flight not permitted (eg, no auto return to home, no auto manouevres)
+- automatic full motor disarm after loss of Rx for 1s or longer
+- battery voltage and Rx signal strenght indication, with alarm, in the OSD
+
+The flight procedures will be compliant with all relevant general safety provisions, except that:
+- additional FPV specific pre-flight safety checks and procedures as set out in the application must be followed
+- must not fly above 100 feet AGL
+- no spotter is required (due to trivial risk of impact with other persons, and the overall low risk of such events)
+- separation from other people/proprty of 5m (not 30m) since is intrinsically far less hazardous than much larger drones even at 30m.
+- may be flown at night provided that the area and the drone are illuminated well enough that the pilot's FPV view is as good as daylight, and the drone can be by other people at least as well as in daylight.
+
+The process for such an application is described here (link soon).
 
 # What about model aircraft registration and model aircraft pilot licensing? - It's coming, likely March 2022...
 
