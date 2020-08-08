@@ -52,15 +52,17 @@ From CASA's perspective, the current anti-FPV provisions must apply to all model
 
 Given the massive variety of risk scenarios, some of which are obviously concerning, it's not surprising that CASA has adopted a restrictive approach.  
 
-CASA has indicated that it requires the model aircraft pilots themselves to argue that FPV is safe under certain conditions.  It has published the means by which exemption requests can be generated.  The MAAA and AMAS have been successful in gaining exemptions generally and at specific fields, but CASA can make more general exemptions.
+CASA has indicated that it requires the model aircraft pilots themselves to argue that FPV is safe under certain conditions.  It has published the means by which exemption requests can be generated.  The MAAA and AMAS have been successful in gaining exemptions generally and at specific fields, but CASA can make FPV exemptions for your own personal farm or property, at specific defined public spaces, and even general exemptions for certain types of drones (subject to agreed conditions).
 
-It is up to us to do the leg work and make the request for a more general exemption.
+It is up to us to do the leg work and make these requests.
 
-We would have to document a thorough risk analysis and risk control process. 
+In every case, we have to go through a specific process that requires a thorough risk analysis, risk control process, procedure documentation etc.
 
-Most likely the application would apply to a specific class of drone, a specific set of conditions, and perhaps a particular set of pilots, for which a general FPV exemption could be granted.  
+Templates for applications of this kind currently don't exist; this site is intended to be a place where they can be created and shared.
 
-CASA may consider an exemption for a limited period of time.  It would be subject to review and would allow data collection on safety.
+Any general FPV application would apply to a specific class of drone, a specific set of conditions, and perhaps a particular set of pilots.
+
+CASA only ever approves exemptions for a limited period of time.  Every exemption would be subject to review; at the very least, each initial exemption could be considered a 'trial period' that would allow data collection on safety.
 
 ## An application to permit FPV flying of whoops would be the simplest first step.
 
