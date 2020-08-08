@@ -4,7 +4,9 @@ This is a site for recreational race or freestyle FPV drone pilots.  It is not f
 
 ## Introduction
 
-Recreational drone pilots in Australia must comply with significant restrictions on when where we can fly.  The regulations are intended to ensure the safety of other airspace users, and other people or property.  There are significant penalties for non-compliance.
+Recreational drone pilots in Australia have significant restrictions on when where we can fly.  
+
+The regulations are intended to ensure the safety of other airspace users, and other people or property.  There are significant penalties for non-compliance.
 
 Many of us feel that the FPV restructions are unreasonable.
 
