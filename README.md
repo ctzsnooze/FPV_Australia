@@ -2,6 +2,8 @@
 
 This is a site for recreational race or freestyle FPV drone pilots.  It is not for commercial drone pilots.
 
+For file and site links, please see the [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki).
+
 ## Introduction
 
 Recreational drone pilots in Australia have significant restrictions on when where we can fly.  
@@ -64,8 +66,6 @@ For instance, we could apply for an exemption to the FPV restriction for all fix
 
 The process for such an application is described here.
 
-This repository provides links to the legislation and guidance on rules, penalties and exemptions in the [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki).
-
 # What about model aircraft registration and model aircraft pilot licensing? - It's coming, likely March 2022...
 
 This is a significant change, with pluses and minuses.  It's a way off yet.  People who fly exclusively at club fields won't be affected as much.
@@ -78,6 +78,7 @@ On the plus side, assuning strong compliance:
 - CASA perceive that if a pilot repeatedly breaches regulations, their licence could be canceled, and that this will stop the pilot flying
 
 On the downside:
+- the penalties for non-registration can cost a lot of money - even if the flying itself was perfectly safe
 - if we fly outside the regulations, or have a mishap, for which we might have otherwise avoided identification, ID on the drone could identify us.
 - CASA could terminate our pilot licence
 - we may get fined for accidental non-compliance, even though we really tried hard to comply
@@ -97,7 +98,7 @@ In the near future, all recreational model aircraft pilots will need to be licen
 
 Its likely that to be licenced to fly a drone, an online regulation knowledge test will be required.  The cost of the licence is not known.
 
-Flying any model aircraft over 250g, other than a glider, while unlicenced, may result in a 5 unit, $1,110 fine - up to $11,100 if contested.  
+Flying any model aircraft over 250g, other than a glider, while unlicenced, may result in a 5 unit, $1,110 fine - up to 50 units max, or $11,100 if contested.  
 
 ## Drone registration
 
@@ -105,9 +106,9 @@ From about the same time, all recreational drones over 250g will also need to be
 
 This will be an on-line process.  The cost to register each drone is not currently known.  The registration number must be applied to the drone.
 
-Failure to register a drone carries the same 5 unit, $1,110 fine; up to $11,100 if contested.  
+Failure to register a drone carries the same 5->50 unit, $1,110 fine; up to $11,100 if contested.  
 
-Failure to provide registration documentation for a drone when requested carries a different penalty, which may be $110 or $1,110 if contested, it's not entirely clear to me.
+Failure to provide registration documentation for a drone when requested carries a different penalty, which may be $110 or $1,110 if contested, it's not entirely clear to me; the maximum is 5 units, but the minimum may be 1 unit or $220, I dont know if they can do half unit fines.
 
 There may be exemptions for model aircraft that are only flown at registered Club fields and nowhere else.
 
