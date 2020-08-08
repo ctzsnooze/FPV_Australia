@@ -36,6 +36,8 @@ This is how Club fields have gained permission for their members fly FPV at thei
 
 Yes.  The process is complex.  In principle, getting formal approval to fly FPV someone's farm, or to fly FPV at a local park, is no different from that undertaken by a club.  
 
+I will provide more information on how to do this here as soon as I can.
+
 ## Why would we bother to get approval just to fly at a local field, or a friend's private rural property?
 
 If you have FPV approval for a local park, or a rural farm proprty, then you can share an FPV video from there without risk of being fined - assuming you flew in full compliance with the general model aircraft safety rules as well as the additional specific conditions of the exemption.  
