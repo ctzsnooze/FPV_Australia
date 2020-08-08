@@ -8,9 +8,9 @@ Recreational drone pilots in Australia have significant restrictions on when whe
 
 The regulations are intended to ensure the safety of other airspace users, and other people or property.  There are significant penalties for non-compliance.
 
-Many of us feel that the FPV restructions are unreasonable.
+Many of us feel that the FPV restrictions are unreasonable.  LOS restrictions are much less onerous.
 
-This site focuses on how race/freestyle FPV pilots could, as a group, work positively for change.
+This site focuses on how race/freestyle FPV pilots could, as a group, work positively for change, explaining the legislation and the exemption process.
 
 ## Current restrictions on FPV
 
