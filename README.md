@@ -2,7 +2,7 @@
 
 This is a site for recreational race or freestyle FPV drone pilots.  It is not for commercial drone pilots.
 
-Most of the information and resources is in the [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki/Contents).
+Most of the information and resources is in the [wiki](https://github.com/ctzsnooze/FPV_Australia/wiki).
 
 ## Introduction
 
