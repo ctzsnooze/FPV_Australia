@@ -1,10 +1,11 @@
-Application for FPV and other exemptions for Whoops.
+Draft application for CASR exemptions for Whoops.
 
 Introduction
 
-This application is intended to exempt operations with a type of model aircraft, referred
-to herein as a "Whoop"", being an ultra-light, enclosed propeller, non-autonomous, fixed
-camera FPV drone, from certain Civil Aviation Safety Regulations.
+This application is for an exemption to certain Civil Aviation Safety Regulations when
+operations are performed with a specific type of model aircraft, referred to herein as a
+"Whoop"", being an ultra-light, enclosed propeller, non-autonomous, fixed camera FPV
+drone.
 
 These drones have an extremely low risk profile, mostly because of their very low mass,
 relatively low speed and limited range.  Our risk analysis indicates that they represent a
