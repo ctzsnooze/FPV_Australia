@@ -1,0 +1,72 @@
+Application for FPV and other exemptions for Whoops.
+
+Introduction
+
+This application is intended to allow a type of model aircraft, specifically an ultra-light, enclosed propeller, fixed camera FPV drone, referred to herein as a Whoop, to be flown in First Person View (FPV) mode, and to allow certain other exemptions from the Civil Aviation Safety Regulations that reflect their low risk profile, provided that they are flown under the conditions.associated with the exemption.
+
+
+1.  Requested duration
+
+3 Years
+
+
+2.  The model aircraft type for which the exemption is requested
+
+The exemptions requested shall apply to all drones with the following characteristics:
+
+(a) All up weight, including battery, is less than 100g (to limit impact damage to other airspace users, or property, or injury to people).  
+
+(b). Equipped with an FPV camera and video transmitter.  
+
+(c)  Where the angle between the camera and the frame is fixed, and the camera points forward and not downward (so that the pilot always sees ahead).
+
+(d)  Propeller tips are enclosed within circumferential ducts (to minimise the risk of skin lacerations on impact).
+
+(e)  Incapable of autonomous flight, e.g. unable to perform automatic return to home or other automated or autonomous manoeuvres (to reduce the risk of flyaways).  
+
+(f) The motors automatically power down if radio control reception is lost continuously for more than one second (to minimise injury or fire from crashing with active propellers).  
+
+(g)  Provides a visual display, in the FPV video stream, of battery voltage and radio control signal strength, updated at least every second, and an alarm indication when either value is low.  
+
+(h)   provides means for the pilot to immediately disarm the flight controller and stop the motors,  at any time.
+
+
+###3 The requested exemptions
+
+(a)  101.073 Subregulation (1) shall not apply (the drone may be operated FPV, and need not be operated within the visual line of sight of the pilot)
+
+(b) 101.238(d)(3) shall not apply (the drone may be operated over a populous area)
+
+(c)  The distance specified in 101.238(d)(v) of the standard RPA operating conditions  (minimum distance of RPA from the movement area of a controlled aerodrome) shall be 1000 metres.
+
+(d)  101.385 Shall not apply (the visibility of the model aircraft must be good enough for the pilot to be able to see it continuously), but only if:  
+- the visibility in the pilot's FPV display is sufficient to meet the safety requirements that would apply if the visibility was good, and  
+- while in flight, the drone is visible at a distance of 20m from the drone 
+
+(e)  101.390 Shall not apply (the drone may be operated at night), but only if:  
+- the visibility in the pilot's FPV display is sufficient to meet all the safety requirements that would otherwise apply in daytime, and  
+- while in flight, the drone is illuminated and visible at a distance of 20m from the drone
+
+(f) The distance specified in 101.395(2) and 101.238(c) (to keep 30m away from anyone not directly associated with the operation of the model aircraft) shall be:  
+- 5 metres for a Whoop under 50g  
+- 10 metres for a Whoop under 100g  
+
+
+###4 The agreed conditions
+
+The pilot shall not operate the Whoop, in controlled airspace, above 100 ft AGL
+
+The pilot shall not fly beyond the range where degradation of the video signal may affect safe operation of the drone.  
+
+The pilot shall confirm the normal operation of the drone, the radio control radio link, and the FPCV system before commencing the FPV operation. 
+
+If the FPV video image starts to degrade, the pilot shall take appropriate measures to restore a normal video image, i.e.,turn around, increase altitude, or return to a previous area where the signal was strong.
+
+The pilot shall immediately disarm the drone if the video feed degrades such an extent that safe operation of the drone is no longer possible.
+
+The pilot shall not power up the drone's video transmitter without first confirming that no other airspace user is currently using the intended video channel.
+
+The pilot shall monitor the battery voltage during the flight, and ensure there is enough residual capacity to fly to a safe landing place.
+
+The operation of the drone should not cause unreasonable annoyance to people not associated with the operation of the drone, e.g. as a result of noise or visual distraction.
+
