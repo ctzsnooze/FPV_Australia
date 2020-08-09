@@ -57,8 +57,8 @@ for more than one second (to minimise injury or fire from crashing with active
 propellers).
 
 (g)  Provides a visual display, in the FPV video stream, of battery voltage and radio
-control signal strength, updated at least every second, and an alarm indication when
-either value is low.
+control signal strength, updated at least every second, and an alarm either visually
+on-screen or audibly via telemetry to the radio transmitter when either value is low.
 
 (h)   provides means for the pilot to immediately disarm the flight controller and stop
 the motors,  at any time.
